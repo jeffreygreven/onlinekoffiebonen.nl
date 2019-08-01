@@ -1,0 +1,2027 @@
+# Translation of Themes - Avant in Dutch
+# This file is distributed under the same license as the Themes - Avant package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-07-24 11:24:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: nl\n"
+"Project-Id-Version: Themes - Avant\n"
+
+#. Description of the theme
+msgid "7 Header layouts, 5 Blog layouts, 3 Footer layouts, Full site color settings, SEO (Search Engine Optimization) settings and lots more settings all built neatly into the WordPress Customizer so you can edit & make changes in a live environment before making any of the changes live... Avant sure gives you what you're wanting. Avant is a highly customizable, multipurpose WordPress theme. Use Avant to build your WooCommerce eCommerce store, online fashion blog, corporate law or business website, or anything down to a simple personal blog. Avant integrates with top plugins such as Elementor or SiteOrigin's Page Builder to make it easy building your website with a drag and drop Page Builder. WooCommerce to create your e-commerce shop selling your products beautifully online. We're constantly building on to Avant, making it even more flexible to what you need. Give it a go!"
+msgstr "7 Header layouts, 5 Blog layouts, 3 Footer layouts, Kleur instellingen voor de gehele site, SEO (Search Engine Optimimailisatie) instellingen en veel meer instellingen zijn ingebouwd  in de WordPress Customizer , zodat je aanpassingen kan maken in de live omgeving voordat je ze activeert op de live omgeving... Avant geeft je zeker datgene wat je zoekt. Avant is zeer uitgebreid aanpasbaar, multipurpose WordPress thema. Gebruik Avant om je eigen WooCommerce eCommerce winkel te maken, online mode blog, juridisch of zakelijke website, of enkel een eenvoudige persoonlijke blog. Avant integrateert met top plugins zoals Elementor of SiteOrigin's Page Builder om het eenvoudiger te maken om je website met drag en drop Page Builder samen te stellen. WooCommerce om je e-commerce winkel je producten online te laten verkopen. We bouwen constant verder aan Avant, om het nog flexibeler te maken en bruikbaarder te maken voor je. Probeer het uit!"
+
+#. Theme Name of the theme
+#: includes/avant-pro/class-customize.php:76
+msgid "Avant"
+msgstr "Avant"
+
+#: includes/inc/template-tags.php:35
+msgctxt "post modified"
+msgid ", Last modified on %s"
+msgstr ", Voor het laatst aangepast op %s"
+
+#: customizer/customizer-options.php:614
+msgid "Add in the Post Modified Date"
+msgstr "Toevoegen van de bericht aanpassingsdatum"
+
+#: customizer/customizer-options.php:578
+msgid "Remove Next & Previous Post Navigation"
+msgstr "Verwijderen Volgende & Vorige bericht navigatie"
+
+#: customizer/customizer-options.php:94
+msgid "Disable only the default fonts if you have selected to use different Google Fonts"
+msgstr "Alleen uitschakelen van de standaard lettertypen, als je geselecteerd hebt om andere Google lettertypen te gebruiken"
+
+#: customizer/customizer-options.php:90
+msgid "Disable the default Google Fonts only"
+msgstr "Schakel alleen de standaard Google lettertypen uit"
+
+#: functions.php:599
+msgid "Dismiss Notice"
+msgstr "Negeer bericht"
+
+#: functions.php:595
+msgid "See More Documentation"
+msgstr "Bekijk meer documentatie"
+
+#: functions.php:591
+msgid "What does Avant Premium offer extra"
+msgstr "Wat bied Avant Premium extra"
+
+#: functions.php:588
+msgid "Mobile Menu is not working"
+msgstr "Mobiel menu werkt niet"
+
+#: functions.php:585
+msgid "Adding Custom CSS to WordPress"
+msgstr "Aangepaste CSS toegevoegd aan WordPress"
+
+#: functions.php:582
+msgid "Setup the Avant default slider"
+msgstr "Stel de Avant standaard slider in"
+
+#: functions.php:578
+msgid "See our list of popular help links for building your website and/or any issues you may have."
+msgstr "Bekijk onze lijst van populaire links om je website te bouwen, en/of andere problemen op te lossen die je misschien hebt."
+
+#: functions.php:576
+msgid "Popular FAQ's:"
+msgstr "Populaire FAQ's:"
+
+#: functions.php:572
+msgid "Start Customizing Your Website"
+msgstr "Start met aanpassen van je website"
+
+#: functions.php:569
+msgid "We've neatly built most of the Avant settings into the WordPress Customizer so you can see all your changes happen as you built your site."
+msgstr "We hebben netjes de meeste van de Avant instellingen in de WordPress Customizer gezet, zodat je alle wijzigingen kunt zien als je bezig bent met je site te bouwen."
+
+#: upgrade/tpl/upgrade-page.php:73 functions.php:566
+msgid "Recommended Resources"
+msgstr "Aanbevolen gegevensbronnen"
+
+#. translators: %s: 'set up your site in WordPress'
+#: functions.php:562
+msgid "<a href=\"https://kairaweb.com/wordpress-hosting/\" target=\"_blank\">setup WordPress Hosting</a>"
+msgstr "<a href=\"https://kairaweb.com/wordpress-hosting/\" target=\"_blank\">instellen WordPress hosting</a>"
+
+#. translators: %s: 'set up your site in WordPress'
+#: functions.php:562
+msgid "<a href=\"https://kairaweb.com/documentation/our-recommended-wordpress-basic-setup/\" target=\"_blank\">WordPress basic setup</a>"
+msgstr "<a href=\"https://kairaweb.com/documentation/our-recommended-wordpress-basic-setup/\" target=\"_blank\">WordPress standaard setup</a>"
+
+#. translators: %s: 'set up your site in WordPress'
+#: functions.php:562
+msgid "See our recommended %1$s and how to get ready before you start building your website after you've %2$s."
+msgstr "Bekijk onze aanbevolen %1$s en hoe je je kunt voorbereiden voordat je met de bouw van je site begint nadat je hebt %2$s."
+
+#: functions.php:558
+msgid "Using Avant:"
+msgstr "Avant gebruiken:"
+
+#: functions.php:554
+msgid "Read More About Avant"
+msgstr "Lees meer over Avant"
+
+#. translators: %s: 'Recommended Resources'
+#: functions.php:550
+msgid "<a href=\"https://kairaweb.com/documentation/\" target=\"_blank\">Kaira Documentation</a>"
+msgstr "<a href=\"https://kairaweb.com/documentation/\" target=\"_blank\">Kaira Documentatie</a>"
+
+#. translators: %s: 'Recommended Resources'
+#: functions.php:550
+msgid "<a href=\"https://kairaweb.com/go/recommended-resources/\" target=\"_blank\">Recommended Resources</a>"
+msgstr "<a href=\"https://kairaweb.com/go/recommended-resources/\" target=\"_blank\">Aanbevolen gegevensbronnen</a>"
+
+#. translators: %s: 'Recommended Resources'
+#: functions.php:550
+msgid "Read through our %1$s and %2$s and we'll help you build a professional website easily."
+msgstr "Lees door onze %1$s en %2$s en we zullen je helpen om eenvoudig een professionele website te bouwen."
+
+#: functions.php:545
+msgid "Avant is a widely used and loved WordPress theme which gives you 7 header layouts, multiple blog and footer layouts, and lots of customization settings... so you can easily change the look of your site any time."
+msgstr "Avant is een veelvuldig gebruikt en gewaardeerd WordPress thema, welke je 7 header layouts bezorgt, meervoudige blog en footer lay-outs, en vele andere aan te passen instellingen.. dus je kan eenvoudig de indeling van je site op elk moment aanpassen."
+
+#: functions.php:543
+msgid "About Avant:"
+msgstr "Over Avant:"
+
+#: functions.php:540
+msgid "We're here to help... Please read through our help notes below on getting started with Avant:"
+msgstr "We zijn er om je te helpen... Lees s.v.p. onze hulp aantekeningen hieronder over het gebruiken van Avant:"
+
+#. translators: %s: 'Recommended Resources'
+#: functions.php:536
+msgid "<a href=\"https://kairaweb.com/go/notice-purchase/\" target=\"_blank\">flash sale</a>"
+msgstr "<a href=\"https://kairaweb.com/go/notice-purchase/\" target=\"_blank\">Uitverkoop</a>"
+
+#. translators: %s: 'Recommended Resources'
+#: functions.php:536
+msgid "Premium is currently on a %1$s for only $17"
+msgstr "Premium is momenteel in een promotie te koop %1$s voor slechts $17"
+
+#: functions.php:532
+msgid "Thank you for trying out Avant!"
+msgstr "Bedankt voor het uittesten van Avant!"
+
+#: upgrade/tpl/upgrade-page.php:69
+msgid "See what we suggest when building your website."
+msgstr "Bekijk wat wij je adviseren tijdens het bouwen van jouw website."
+
+#: customizer/customizer-options.php:216
+msgid "Navigation Font Size"
+msgstr "Afmeting navigatie lettertype"
+
+#: upgrade/tpl/upgrade-page.php:39
+msgid "Avant Premium offers a bunch on Elementor Page layouts built into the theme<br />so you can simply import page layouts to use."
+msgstr "Avant Premium bied aan aantal Elementor pagina layouts aan die ingebouwd zijn in het thema.<br /> zodat je eenvoudig pagina layouts kan importeren om te gebruiken."
+
+#: upgrade/tpl/upgrade-page.php:38
+msgid "Page Layouts"
+msgstr "Pagina layouts"
+
+#: customizer/customizer-options.php:759
+msgid "Customize the <a href=\"#avant-panel-colors\" rel=\"tc-panel\">Footer Colors</a>, add <a href=\"#avant-social-section\" rel=\"tc-section\">Social links</a> or <a href=\"#avant-panel-font-settings\" rel=\"tc-panel\">Site Fonts</a>"
+msgstr "Pas de <a href=\"#avant-panel-colors\" rel=\"tc-panel\">Voet kleuren aan</a> toevoegen <a href=\"#avant-social-section\" rel=\"tc-section\">Social links</a> or <a href=\"#avant-panel-font-settings\" rel=\"tc-panel\">Site Fonts</a>"
+
+#: customizer/customizer-options.php:173
+msgid "Customize the <a href=\"#avant-panel-colors\" rel=\"tc-panel\">Header Colors</a>, add <a href=\"#avant-social-section\" rel=\"tc-section\">Social links</a> and edit <a href=\"#avant-website-section-text-header\" rel=\"tc-section\">Header text</a> or <a href=\"#avant-panel-font-settings\" rel=\"tc-panel\">Site Fonts</a>"
+msgstr "Pas de <a href=\"#avant-panel-colors\" rel=\"tc-panel\">Header kleuren aan</a>, add <a href=\"#avant-social-section\" rel=\"tc-section\">Social links</a> and edit <a href=\"#avant-website-section-text-header\" rel=\"tc-section\">Header tekst</a> or <a href=\"#avant-panel-font-settings\" rel=\"tc-panel\">Site Fonts</a>"
+
+#: customizer/customizer-options.php:39 customizer/customizer-options.php:84
+msgid "Change/edit the <a href=\"#avant-site-layout-section-header\" rel=\"tc-section\">Header</a> & <a href=\"#avant-site-layout-section-footer\" rel=\"tc-section\">Footer</a> Layouts<br />Edit/Change <a href=\"#avant-panel-colors\" rel=\"tc-panel\">Theme Colors</a><br />Add a <a href=\"#avant-site-layout-section-slider\" rel=\"tc-section\">Home Page Slider</a><br />Change/edit the <a href=\"#avant-blog-section-blog\" rel=\"tc-section\">Blog Layout</a><br />Add/edit <a href=\"#avant-site-layout-section-page\" rel=\"tc-section\">Pages Featured Image</a><br />Add/edit <a href=\"#avant-blog-section-post\" rel=\"tc-section\">Single Posts featured image</a><br />Add <a href=\"#avant-social-section\" rel=\"tc-section\">Social Links</a> to your site"
+msgstr "Wijzig/bewerk de <a href=\"#avant-site-layout-section-header\" rel=\"tc-section\">Header</a> & <a href=\"#avant-site-layout-section-footer\" rel=\"tc-section\">Footer</a> Layouts<br />Bewerk/wijzig <a href=\"#avant-panel-colors\" rel=\"tc-panel\">Theme Colors</a><br />Voeg een <a href=\"#avant-site-layout-section-slider\" rel=\"tc-section\">Home pagina slider toe</a><br />Wijzig/bewerk de<a href=\"#avant-blog-section-blog\" rel=\"tc-section\">Blog Layout</a><br />Voeg toe/bewerk <a href=\"#avant-site-layout-section-page\" rel=\"tc-section\">Pages Featured Image</a><br />Add/edit <a href=\"#avant-blog-section-post\" rel=\"tc-section\">Single Posts featured image</a><br />Add <a href=\"#avant-social-section\" rel=\"tc-section\">Social Links</a> naar je site"
+
+#: customizer/customizer-options.php:163
+msgid "<b>Premium Extra Features:</b><br />- Add your own \"Site Built By\" backlink in the Footer<br />- Add Title & Tagline with uploaded logo and adjust<br />- Set custom website container width<br />- Set custom Sidebar width<br />- Change Side Social Links design<br />- Change Site Attribution text"
+msgstr "<b>Premium Extra Functies:</b><br />- Voeg uw eigen \"Site gebouwd door\" backlink in de voettekst toe<br />- Toevoegen titel & Tagregel met geupload logo en pas het aan<br />- Instellen eigen website container breedte<br />- Instellen eigen Sidebar breedte<br />- Pas de Side Social Links aan<br />- Wijzig de Site Attribution tekst"
+
+#: upgrade/tpl/upgrade-page.php:21
+msgid "Read more here on  <strong><a href=\"%s\" target=\"_blank\">what is included in premium</a></strong> or see <a href=\"%2\" target=\"_blank\"><b>how to install premium</b></a>"
+msgstr "Lees meer hier op<strong><a href=\"%s\" target=\"_blank\">what is included in premium</a></strong> of bekijk<a href=\"%2\" target=\"_blank\"><b>how to install premium</b></a>"
+
+#: upgrade/tpl/upgrade-page.php:16
+msgid "<b>Time limited offer, only advertised here</b>... Get Avant Premium now for a <b><a href=\"https://kairaweb.com/go/page-purchase/\" target=\"_blank\">once off payment of $17 for lifetime updates</a></b>"
+msgstr "<b>Beperkte aanbieding, alleen hier getoond</b>...Verkrijg Avant Premium nu voor een<b><a href=\"https://kairaweb.com/go/page-purchase/\" target=\"_blank\">eenmalige betaling van $17 voor lifetime updates</a></b>"
+
+#: customizer/customizer-options.php:102
+msgid "Disable Google Fonts and only select from web-safe fonts"
+msgstr "Schakel Google Fonts uit en selecteer alleen uit web veilige fonts"
+
+#: customizer/customizer-options.php:98
+msgid "Disable Google Fonts"
+msgstr "Google-lettertypen uitschakelen"
+
+#. Template Name of the theme
+msgid "Gutenberg Template"
+msgstr "Gutenberg Template"
+
+#: customizer/customizer-options.php:1623
+msgid "<b>Premium Extra Features:</b><br />- Change Social Icons to their brand colors<br />- Premium offers a bunch of extra Social Links<br />- Plus 3 custom inputs for your own links"
+msgstr "<b> Premium extra functies: </b> <br />-Wijzig sociale iconen naar hun merkkleuren <br />-Premium biedt een heleboel extra sociale links <br />-plus 3 aangepaste ingangen voor uw eigen links"
+
+#. translators: 1: plugin name(s).
+#: includes/inc/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "De volgende aanbevolen plugin is momenteel inactief:%1$s."
+msgstr[1] "De volgende aanbevolen plugins zijn momenteel inactief:%1$s."
+
+#. translators: 1: plugin name(s).
+#: includes/inc/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "De volgende vereiste plugin is momenteel inactief:%1$s"
+msgstr[1] "De volgende vereiste plugins zijn momenteel inactief:%1$s"
+
+#. translators: 1: plugin name(s).
+#: includes/inc/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Er is een update beschikbaar voor:%1$s"
+msgstr[1] "Er zijn updates beschikbaar voor:%1$s"
+
+#. translators: 1: plugin name(s).
+#: includes/inc/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "De volgende plugin moet naar de laatste versie geupdate worden, om de maximale compatibiliteit met dit thema te waarborgen:%1$s"
+msgstr[1] "De volgende plugins moet naar de laatste versie geupdate worden, om de maximale compatibiliteit met dit thema te waarborgen:%1$s"
+
+#. translators: 1: plugin name(s).
+#: includes/inc/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Dit thema beveelt de volgende plugin aan:%1$s"
+msgstr[1] "Dit thema beveelt de volgende plugins aan:%1$s"
+
+#. translators: 1: plugin name(s).
+#: includes/inc/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Dit thema vereist de volgende plugin:%1$s"
+msgstr[1] "Dit thema vereist de volgende plugins:%1$s"
+
+#: customizer/customizer-options.php:1513
+msgid "Remove Top Bar on Mobile"
+msgstr "Verwijder bovenste bar op mobiel"
+
+#: customizer/customizer-options.php:890
+msgid "<b>Premium Extra Features:</b><br />- Set Products Per Page<br />- Set Products Per Row<br />- Set Shop and Product pages to Left Sidebar<br />- Set Shop and Product pages to Full Width<br />- Disable Product page image Zoom and/or Lightbox"
+msgstr "<b> Premium extra functies: </b> <br />-set producten per pagina <br />-set producten per rij <br />-Stel winkel en product pagina's links zijbalk <br />-set Shop en product pagina's op volle breedte <br />-Disable Product Page Image Zoom en/of Lightbox"
+
+#: customizer/customizer-options.php:147
+msgid "Position from the top"
+msgstr "Positie vanaf de top"
+
+#: customizer/customizer-options.php:1437
+msgid "fa-map-marker-alt"
+msgstr "fa-map-marker-alt"
+
+#: customizer/customizer-options.php:981
+msgid "Widget Titles Element"
+msgstr "Widget titels element"
+
+#: customizer/customizer-options.php:965
+msgid "Blog List Titles Element"
+msgstr "Bericht lijst titels element"
+
+#: customizer/customizer-options.php:949
+msgid "Page Titles Element"
+msgstr "Element pagina titels"
+
+#: customizer/customizer-options.php:932
+msgid "Site Description Element"
+msgstr "Site beschrijving element"
+
+#: customizer/customizer-options.php:915
+msgid "Site Title Element"
+msgstr "Site titel element"
+
+#: customizer/customizer-options.php:911 customizer/customizer-options.php:928
+#: customizer/customizer-options.php:945 customizer/customizer-options.php:961
+#: customizer/customizer-options.php:977
+msgid "H6"
+msgstr "H6"
+
+#: customizer/customizer-options.php:910 customizer/customizer-options.php:927
+#: customizer/customizer-options.php:944 customizer/customizer-options.php:960
+#: customizer/customizer-options.php:976
+msgid "H5"
+msgstr "H5"
+
+#: customizer/customizer-options.php:909 customizer/customizer-options.php:926
+#: customizer/customizer-options.php:943 customizer/customizer-options.php:959
+#: customizer/customizer-options.php:975
+msgid "H4"
+msgstr "H4"
+
+#: customizer/customizer-options.php:908 customizer/customizer-options.php:925
+#: customizer/customizer-options.php:942 customizer/customizer-options.php:958
+#: customizer/customizer-options.php:974
+msgid "H3"
+msgstr "H3"
+
+#: customizer/customizer-options.php:907 customizer/customizer-options.php:924
+#: customizer/customizer-options.php:941 customizer/customizer-options.php:957
+#: customizer/customizer-options.php:973
+msgid "H2"
+msgstr "H2"
+
+#: customizer/customizer-options.php:906 customizer/customizer-options.php:923
+#: customizer/customizer-options.php:940 customizer/customizer-options.php:956
+#: customizer/customizer-options.php:972
+msgid "H1"
+msgstr "H1"
+
+#: customizer/customizer-options.php:900
+msgid "SEO (Search Engine Optimization)"
+msgstr "SEO (Search Engine Optimisatie)"
+
+#: customizer/customizer-options.php:399
+msgid "Pause Slider on mouse hover"
+msgstr "Pauzeer dia als hij met muis wordt aangewezen"
+
+#: functions.php:368
+msgid "Contact Form by WPForms"
+msgstr "Contact formulier door WPForms"
+
+#: customizer/customizer-options.php:798
+msgid "Add \"Privacy Policy\" page link"
+msgstr "Pagina privacyverklaring toevoegen"
+
+#: customizer/customizer-options.php:1543
+msgid "Remove Slider Text"
+msgstr "Verwijder tekst dia's"
+
+#: customizer/customizer-options.php:1536
+msgid "Add set height to Slides"
+msgstr "Ingestelde hoogte toevoegen aan dia's"
+
+#: customizer/customizer-options.php:1498
+msgid "Avant Mobile Settings"
+msgstr "Avant mobiel instellingen"
+
+#: customizer/customizer-options.php:1332
+msgid "<b>Premium Extra Features:</b><br />- Full Mobile navigation color settings"
+msgstr "<b> Premium extra functies: </b> <br />-Volledige mobiele navigatie kleurinstellingen"
+
+#: customizer/customizer-options.php:1218
+msgid "<b>Premium Extra Features:</b><br />- Edit Mobile slide out menu colors"
+msgstr "<b> Premium extra features: </b> <br />-Bewerk mobiele Slide out menu kleuren"
+
+#: customizer/customizer-options.php:868
+msgid "Set the width of the Product Single Page Columns"
+msgstr "De breedte van de afzonderlijke paginakolommen van het product instellen"
+
+#: customizer/customizer-options.php:860
+msgid "Product Single Page Column Width"
+msgstr "Kolombreedte van één pagina product"
+
+#: customizer/customizer-options.php:154
+msgid "Add Back To Top Button"
+msgstr "Terug naar boven knop toevoegen"
+
+#: customizer/customizer-options.php:1011
+msgid "Site Title - Uppercase"
+msgstr "Titel van site-hoofdletters"
+
+#: customizer/customizer-options.php:881
+msgid "Products Full Width on Mobile"
+msgstr "Volle breedte van producten op mobiel"
+
+#: customizer/customizer-options.php:853
+msgid "Remove Categories Count"
+msgstr "Verwijder teller categorieën"
+
+#: customizer/customizer-options.php:735
+msgid "Content Border Radius"
+msgstr "Radius van rand om inhoud"
+
+#: customizer/customizer-options.php:666
+msgid "Sidebar Widget Spacing"
+msgstr "Sidebar widget afstand"
+
+#: customizer/customizer-options.php:652
+msgid "Break Sidebar into Blocks"
+msgstr "Breek sidebar in blokken"
+
+#: customizer/customizer-options.php:305
+msgid "Due to the AJAX, This will only change when you open the site again in a new tab"
+msgstr "Als gevolg van AJAX, zal dit alleen veranderen wanneer u de site opnieuw opent in een nieuw tabblad"
+
+#: customizer/customizer-options.php:302
+msgid "Cart Icon"
+msgstr "Pictogram van de winkelwagen"
+
+#: customizer/customizer-options.php:298
+msgid "Shopping Bag"
+msgstr "Winkeltas"
+
+#: customizer/customizer-options.php:297
+msgid "Shopping Basket"
+msgstr "Winkelmand"
+
+#: customizer/customizer-options.php:296
+msgid "Shopping Cart"
+msgstr "Winkelwagen"
+
+#: customizer/customizer-options.php:506
+msgid "Select which cut the Blog list uses<br />Recommended: Optimize images before upload"
+msgstr "Selecteer welke cut de berichten lijst gebruikt <br /> Aanbevolen: afbeeldingen optimaliseren voor upload"
+
+#: customizer/customizer-options.php:503
+msgid "Blog Image Cut"
+msgstr "Berichten afbeelding bijsnijden"
+
+#: customizer/customizer-options.php:495
+msgid "Blog Post Image Shape"
+msgstr "Berichten post afbeeldingsvorm"
+
+#: customizer/customizer-options.php:491
+msgid "Actual Image Shape"
+msgstr "Werkelijke afbeeldings vorm"
+
+#: customizer/customizer-options.php:490
+msgid "All Images Round"
+msgstr "Alle afbeeldingen rond"
+
+#: customizer/customizer-options.php:489
+msgid "All Images Square"
+msgstr "Alle afbeeldingen vierkant"
+
+#: customizer/customizer-library/custom-controls/imageselect.php:22
+msgid "Full"
+msgstr "Volledig"
+
+#: customizer/customizer-options.php:314
+msgid "<b>Premium Extra Features:</b><br />- Sticky Navigation<br />- Change Navigation Styling<br />- Add extra text to the header<br />- Option to replace default search with Shortcode"
+msgstr "<b> Premium extra functies: </b> <br />-Sticky Navigatie <br />-Verander navigatie styling <br />-Voeg extra tekst toe aan de header <br />-optie om standaard zoeken vervangen door shortcode"
+
+#: customizer/customizer-options.php:210
+msgid "Navigation - Normal Case"
+msgstr "Navigatie - normaal font"
+
+#: customizer/customizer-options.php:65
+msgid "Site Tagline - Normal Case"
+msgstr "Site tagregel - normale karakters"
+
+#: upgrade/tpl/upgrade-page.php:160
+msgid "This theme has a clean design with many options for customization. Flexibility is key, especially with an online store.<br /><br />Plus, when I had a question with formatting, Zack responded very quickly. His support was helpful and friendly. I'm happy I chose this theme and I would definitely recommend it to other users."
+msgstr "Dit thema heeft een schoon ontwerp met vele opties voor aanpassing. Flexibiliteit is de sleutel, vooral met een online winkel. <br /> <br /> Plus, toen ik een vraag met opmaak had, Zack reageerde zeer snel. Zijn steun was behulpzaam en vriendelijk. Ik ben blij dat ik koos voor dit thema en ik zou het zeker aanraden aan andere gebruikers."
+
+#: upgrade/tpl/upgrade-page.php:157
+msgid "AllisonMandel"
+msgstr "AllisonMandel"
+
+#: upgrade/tpl/upgrade-page.php:151
+msgid "This theme is so pretty. It's customizable, it's fast, and even the free version offers lots of options to get the look you want for your site.<br /><br />I bought the premium version because I did want some of the premium features - it's really affordable for such a great theme. Love it!"
+msgstr "Dit thema is zo mooi. Het is aanpasbaar, het is snel, en zelfs de gratis versie biedt veel opties om de look die u wilt voor uw site te krijgen.<br /><br /> Ik kocht de Premium versie, want ik wilde een aantal van de Premium features-het is echt betaalbaar voor een dergelijk groot thema. Ik vind het heerlijk!"
+
+#: upgrade/tpl/upgrade-page.php:148
+msgid "PixieLauren"
+msgstr "PixieLauren"
+
+#: upgrade/tpl/upgrade-page.php:142
+msgid "By far the most beautiful and customizable free theme available.<br /><br />The support has been extremely quick and professional. Highly recommended!"
+msgstr "Veruit het mooiste en aanpasbare gratis thema beschikbaar. <br /> <br /> de ondersteuning is zeer snel en professioneel. Een aanrader!"
+
+#: upgrade/tpl/upgrade-page.php:139
+msgid "Adrigrove"
+msgstr "Adrigrove"
+
+#: upgrade/tpl/upgrade-page.php:133
+msgid "The Avant theme works. It is stable, reliable and amazing. I had a few questions and Zack answered them almost instantly. Great attitude and an amazing theme. You can't go wrong.<br /><br />This is one of the best woocommerce themes I have ever used!"
+msgstr "Het avant-thema werkt. Het is stabiel, betrouwbaar en verbazingwekkend. Ik had een paar vragen en Zack antwoordde ze bijna direct. Geweldige houding en een geweldig thema. Je niet fout gaan. <br /> <br /> Dit is een van de beste Woocommerce thema's die ik ooit heb gebruikt!"
+
+#: upgrade/tpl/upgrade-page.php:130
+msgid "Karmawordz"
+msgstr "Karmawordz"
+
+#: templates/slider/homepage-slider.php:145
+msgid "Add your own slides here"
+msgstr "u hier uw eigen dia's kan toevoegen"
+
+#: templates/slider/homepage-slider.php:145
+msgid "See how to"
+msgstr "Zie hoe"
+
+#: customizer/customizer-options.php:1323
+msgid "Selected/Active Color"
+msgstr "Geselecteerde/actieve kleur"
+
+#: customizer/customizer-options.php:1074
+msgid "<b>Premium Extra Features:</b><br />- Set custom Title & Tagline colors"
+msgstr "<b> Premium extra features: </b> <br />-set aangepaste titel & slogan kleuren"
+
+#: customizer/customizer-options.php:876
+msgid "Try keep titles to 2 lines, if more then you can <a href=\"https://kairaweb.com/documentation/add-custom-css-to-align-the-woocommerce-titles/\" target=\"_blank\">add CSS to align the titles</a>"
+msgstr "Probeer titels te houden tot en met 2 lijnen, als er meer dan u<a href=\"https://kairaweb.com/documentation/add-custom-css-to-align-the-woocommerce-titles/\" target=\"_blank\">Voeg CSS toe om de titels uit te lijnen </a>"
+
+#: customizer/customizer-options.php:873
+msgid "Align Product Titles"
+msgstr "Product titels uitlijnen"
+
+#: customizer/customizer-options.php:846
+msgid "Remove Shop Results & Sorting"
+msgstr "Verwijder winkelresultaten & sortering"
+
+#: customizer/customizer-options.php:786
+msgid "Add your <a href=\"#avant-social-section\" rel=\"tc-section\">Social links</a> to the footer"
+msgstr "Voeg uw <a href=\"#avant-social-section\" rel=\"tc-section\">Sociale links</a> toe aan de voet tekst"
+
+#: customizer/customizer-options.php:780
+msgid "The Standard Footer is divided into columns by the amount of widgets that are added under<br /><i>Dashboard -> Appearance -> <a href=\"#widgets\" rel=\"tc-panel\">Widgets</a></i>"
+msgstr "De standaard voettekst is onderverdeeld in kolommen door de hoeveelheid widgets die worden toegevoegd onder<br /><i>Dashboard -> Appearance -> <a href=\"#widgets\" rel=\"tc-panel\">Widgets</a></i>"
+
+#: customizer/customizer-options.php:413
+msgid "Remove Slider Excerpt Only"
+msgstr "Verwijder alleen dia Excerpt"
+
+#: customizer/customizer-options.php:406
+msgid "Remove Slider Title & Text"
+msgstr "Verwijder dia titel & tekst"
+
+#: customizer/customizer-options.php:230
+msgid "<a href=\"https://kairaweb.com/documentation/change-navigation-drop-direction-custom-css-class/\" target=\"_blank\">Switch the direction</a> of the navigation dropdown"
+msgstr "<a href=\"https://kairaweb.com/documentation/change-navigation-drop-direction-custom-css-class/\" target=\"_blank\">Wijzig de richting</a> van de navigatie dropdown"
+
+#: customizer/customizer-options.php:142
+msgid "Add <a href=\"#avant-social-section\" rel=\"tc-section\">Social Icons</a> for this to show"
+msgstr "Toevoegen <a href=\"#avant-social-section\" rel=\"tc-section\">Sociale Icons</a> om deze te tonen"
+
+#: customizer/customizer-options.php:139
+msgid "Add Side Aligned Social Icons"
+msgstr "Voeg uitgelijnde sociale icons toe"
+
+#: templates/social-links.php:35 templates/footer/footer-social.php:42
+msgid "Find Us on VK"
+msgstr "Vind ons op VK"
+
+#: templates/social-links.php:23 templates/footer/footer-social.php:30
+msgid "Find Us on LinkedIn"
+msgstr "Vind ons op LinkedIn"
+
+#: templates/social-links.php:19 templates/footer/footer-social.php:26
+msgid "Find Us on Pinterest"
+msgstr "Vind ons op de Pintst"
+
+#: customizer/customizer-options.php:1609
+msgid "VK"
+msgstr "VK"
+
+#: customizer/customizer-options.php:1591
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: customizer/customizer-options.php:1585
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: customizer/customizer-options.php:37
+msgid "Site Identity"
+msgstr "Sitetitel en favicon"
+
+#. Template Name of the theme
+msgid "Left Sidebar"
+msgstr "Linker sidebar"
+
+#. Template Name of the theme
+msgid "Full Width"
+msgstr "Volledige breedte"
+
+#: upgrade/tpl/upgrade-page.php:118
+msgid "Theme Ratings"
+msgstr "Thema beoordelingen"
+
+#: upgrade/tpl/upgrade-page.php:114
+msgid "If you like our themes and/or found our support helpful, please let us know by <a href='%s' target='_blank'>giving us a review</a>."
+msgstr "Als je van onze Thema's houd en/of onze steun nuttig vond, laat het ons weten door<a href='%s' target='_blank'>ons een review te geven</a>."
+
+#: upgrade/tpl/upgrade-page.php:112
+msgid "Upgrading will support us and enable us to keep building WordPress themes."
+msgstr "Upgraden zal ons ondersteunen en in staat stellen om door te gaan met het maken van WordPress Thema's."
+
+#: upgrade/tpl/upgrade-page.php:110
+msgid "We aim to keep our prices cheaper than other theme shops, while still offering you the best WordPress themes."
+msgstr "Wij streven ernaar om onze prijzen goedkoper dan andere thema winkels te houden, terwijl het aanbieden van u nog de beste WordPress Thema's."
+
+#: upgrade/tpl/upgrade-page.php:101
+msgid "Theme: Avant, built by <a href=\"%s\" target=\"_blank\">Kaira</a>"
+msgstr "Thema: avant, gebouwd door<a href=\"%s\" target=\"_blank\">Kaira</a>"
+
+#: upgrade/tpl/upgrade-page.php:96
+msgid "Give Avant a rating"
+msgstr "Geef Avant een waardering"
+
+#: upgrade/tpl/upgrade-page.php:92
+msgid "Please help by giving us a rating on WordPress.org :)"
+msgstr "Gelieve te helpen door het geven van ons een rating op WordPress.org:)"
+
+#: upgrade/tpl/upgrade-page.php:91
+msgid "Have you enjoyed using Avant?"
+msgstr "Heb je genoten van avant?"
+
+#: upgrade/tpl/upgrade-page.php:84
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: upgrade/tpl/upgrade-page.php:80
+msgid "We have on-growing documentation on setting up your website with the Avant theme"
+msgstr "We hebben een groeiende documentatie over het opzetten van uw website met het avant thema"
+
+#: upgrade/tpl/upgrade-page.php:62
+msgid "Avant Child Theme"
+msgstr "Thema avant Child"
+
+#: upgrade/tpl/upgrade-page.php:58
+msgid "Or learn more on creating/editing a <a href=\"%s\" target=\"_blank\">Child Theme</a>"
+msgstr "Of leer meer over het maken/bewerken van een<a href=\"%s\" target=\"_blank\">Child Theme</a>"
+
+#: upgrade/tpl/upgrade-page.php:57
+msgid "Download a working Child Theme for Avant"
+msgstr "Download een werkend kind thema voor avant"
+
+#: upgrade/tpl/upgrade-page.php:50
+msgid "Avant Premium Demo"
+msgstr "Avant Premium demo"
+
+#: upgrade/tpl/upgrade-page.php:46
+msgid "View the Avant Premium Demo, and try out all the settings neatly built into the Customizer"
+msgstr "Bekijk de avant Premium demo, en probeer alle instellingen netjes ingebouwd in de Customizer"
+
+#: upgrade/tpl/upgrade-page.php:34
+msgid "Avant Premium is a once off payment!"
+msgstr "Avant Premium is een eenmalige betaling!"
+
+#: upgrade/tpl/upgrade-page.php:24
+msgid "<strong>All settings for Avant</strong> are neatly built into the <a href=\"%s\">WordPress Customizer</a> so you can change and edit settings to view what happens before saving and making any of the changes live"
+msgstr "<strong> alle instellingen voor avant </strong> zijn netjes ingebouwd in de<a href=\"%s\">WordPress Customizer</a> , zodat u instellingen kunt wijzigen en bewerken om te zien wat er gebeurt voor het opslaan en het maken van een van de veranderingen Live"
+
+#: upgrade/tpl/upgrade-page.php:13
+msgid "<span>Avant Premium </span><em>$17</em>"
+msgstr "<span> avant Premium </span> <em> $17 </em>"
+
+#: upgrade/upgrade.php:13 upgrade/tpl/upgrade-page.php:4
+msgid "About Avant"
+msgstr "Over avant"
+
+#: templates/titlebar.php:20
+msgid "Search Results for: %s"
+msgstr "Zoekresultaten voor: %s"
+
+#: templates/slider/homepage-slider.php:172
+msgid "Are you shopping anywhere, changed the color of your hair, are you busy?"
+msgstr "Bent u overal aan het winkelen, is de kleur van uw haar veranderd, bent u druk?"
+
+#: templates/slider/homepage-slider.php:169
+msgid "Paint A Picture"
+msgstr "Een afbeelding opmaken"
+
+#: templates/header/header-layout-seven.php:113
+#: templates/header/header-layout-one.php:51
+#: templates/header/header-layout-two.php:78
+#: templates/header/header-layout-six.php:52
+#: templates/header/header-layout-five.php:75
+#: templates/header/header-layout-four.php:73
+#: templates/header/header-layout-three.php:101
+msgid "menu"
+msgstr "menu"
+
+#: templates/footer/footer-standard.php:13
+msgid "Add your own widgets here"
+msgstr "Voeg hier uw eigen widgets toe"
+
+#: templates/footer/footer-social.php:49
+msgid "<div class=\"site-footer-social-copy\">Theme: %1$s by %2$s"
+msgstr "<div class=\"site-footer-social-copy\">Thema: %1$s door %2$s"
+
+#: templates/social-links.php:39 templates/footer/footer-social.php:46
+msgid "Find Us on GitHub"
+msgstr "Vind ons op GitHub"
+
+#: templates/social-links.php:31 templates/footer/footer-social.php:38
+msgid "Find Us on Flickr"
+msgstr "Vind ons op Flickr"
+
+#: templates/social-links.php:27 templates/footer/footer-social.php:34
+msgid "Find Us on Tumblr"
+msgstr "Vind ons op Tumblr"
+
+#: templates/social-links.php:15 templates/footer/footer-social.php:22
+msgid "Follow Us on Twitter"
+msgstr "Volg ons op Twitter"
+
+#: templates/social-links.php:11 templates/footer/footer-social.php:18
+msgid "Find Us on Facebook"
+msgstr "Vind ons op Facebook"
+
+#: templates/social-links.php:7 templates/footer/footer-social.php:14
+msgid "Contact Us on Skype"
+msgstr "Contacteer ons op Skype"
+
+#: templates/social-links.php:3 templates/footer/footer-social.php:10
+msgid "Send Us an Email"
+msgstr "Stuur ons een email"
+
+#: templates/footer/footer-none.php:4 templates/footer/footer-standard.php:24
+msgid "<div class=\"site-container\"><div class=\"site-footer-bottom-bar-left\">Theme: %1$s by %2$s</div><div class=\"site-footer-bottom-bar-right\">"
+msgstr "<div class=\"site-container\"><div class=\"site-footer-bottom-bar-left\">Tema: %1$s van %2$s</div><div class=\"site-footer-bottom-bar-right\">"
+
+#: templates/contents/content-search.php:62
+#: templates/contents/content-search.php:133 templates/contents/content.php:64
+#: templates/contents/content.php:137
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lees verder %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: templates/contents/content-single.php:32
+#: templates/contents/content-page.php:27
+#: templates/contents/content-search.php:140 templates/contents/content.php:144
+msgid "Pages:"
+msgstr "Pagina's:"
+
+#: templates/contents/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klaar om je eerste bericht te publiceren? <a href=\"%1$s\">Begin hier</a>."
+
+#: searchform.php:11
+msgctxt "submit button"
+msgid "&nbsp;"
+msgstr "&nbsp;"
+
+#: searchform.php:9
+msgctxt "placeholder"
+msgid "Search &amp; hit enter&hellip;"
+msgstr "Zoek &amp; druk op ENTER &hellip;"
+
+#: includes/inc/woocommerce-header-inc.php:11
+#: templates/header/header-layout-seven.php:126
+#: templates/header/header-layout-one.php:62
+#: templates/header/header-layout-two.php:95
+#: templates/header/header-layout-six.php:63
+#: templates/header/header-layout-five.php:88
+#: templates/header/header-layout-four.php:86
+#: templates/header/header-layout-three.php:80
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d item"
+msgstr[1] "%d producten"
+
+#: includes/inc/woocommerce-header-inc.php:9
+#: templates/header/header-layout-seven.php:124
+#: templates/header/header-layout-one.php:60
+#: templates/header/header-layout-two.php:93
+#: templates/header/header-layout-six.php:61
+#: templates/header/header-layout-five.php:86
+#: templates/header/header-layout-four.php:84
+#: templates/header/header-layout-three.php:78
+msgid "View your shopping cart"
+msgstr "Bekijk je winkelwagen"
+
+#: includes/inc/template-tags.php:72
+msgid "% Comments"
+msgstr "% Reacties"
+
+#: includes/inc/template-tags.php:72
+msgid "1 Comment"
+msgstr "1 Reactie"
+
+#: includes/inc/template-tags.php:72
+msgid "Leave a comment"
+msgstr "Laat een reactie achter"
+
+#: includes/inc/template-tags.php:66
+msgid "Tagged %1$s"
+msgstr "Label %1$s"
+
+#: includes/inc/template-tags.php:60
+msgid "Posted in %1$s"
+msgstr "Geplaatst in %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: includes/inc/template-tags.php:58 includes/inc/template-tags.php:64
+msgid ", "
+msgstr ", "
+
+#: includes/inc/template-tags.php:41
+msgctxt "post author"
+msgid "by %s"
+msgstr "door %s"
+
+#: includes/inc/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Geplaatst op %s"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/inc/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installing Plugin %1$s (%2$d/%3$d)"
+
+#: includes/inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Alle installaties zijn voltooid."
+
+#. translators: 1: plugin name.
+#: includes/inc/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s is succesvol geïnstalleerd."
+
+#: includes/inc/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Installatieproces gestart. Dit kan even duren."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/inc/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installeren en activeren van plugin %1$s (%2$d/%3$d)"
+
+#: includes/inc/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Alle installaties en activeringen werden uitgevoerd."
+
+#. translators: 1: plugin name.
+#: includes/inc/class-tgm-plugin-activation.php:3509
+#: includes/inc/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Verberg details"
+
+#. translators: 1: plugin name.
+#: includes/inc/class-tgm-plugin-activation.php:3509
+#: includes/inc/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Toon details"
+
+#. translators: 1: plugin name.
+#: includes/inc/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installed and activated successfully."
+
+#: includes/inc/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Installatie en activatieproces gestart. Dit kan even duren."
+
+#. translators: 1: plugin name.
+#: includes/inc/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "De installatie van %1$s is mislukt."
+
+#. translators: 1: plugin name, 2: error message.
+#: includes/inc/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Er is een fout opgetreden tijdens de installatie van %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/inc/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Plugin bijwerken %1$s (%2$d/%3$d)"
+
+#: includes/inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Plugin activatie mislukt."
+
+#: includes/inc/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Er zijn op dit moment geen plugins beschikbaar om te activeren."
+
+#: includes/inc/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Er zijn geen plugins geselecteerd om te activeren. Geen actie ondernomen."
+
+#: includes/inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Er zijn op dit moment geen plugins beschikbaar om bij te werken."
+
+#: includes/inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Er zijn op dit moment geen plugins beschikbaar om te installeren."
+
+#: includes/inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Er zijn geen plugins geselecteerd om bij te werken. Geen actie ondernomen."
+
+#: includes/inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Er zijn geen plugins geselecteerd om te installeren. Geen actie ondernomen."
+
+#: includes/inc/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Activeren"
+
+#: includes/inc/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Bijwerken"
+
+#: includes/inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Installeer"
+
+#: includes/inc/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Upgrade melding van de plugin-auteur:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/inc/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Activeer %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/inc/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Update %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/inc/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Installeer %2$s"
+
+#: includes/inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Status"
+
+#: includes/inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Versie"
+
+#: includes/inc/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Type"
+
+#: includes/inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Bron"
+
+#: includes/inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: includes/inc/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Geen plugins om te installeren, updaten of te activeren."
+
+#: includes/inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Beschikbare versie:"
+
+#: includes/inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Minimaal vereiste versie:"
+
+#: includes/inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Geïnstalleerde versie:"
+
+#: includes/inc/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "onbekend"
+
+#. translators: 1: number of plugins.
+#: includes/inc/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Activeer <span class=\"count\">(%s)</span>"
+msgstr[1] "Activeer <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: includes/inc/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Update beschikbaar <span class=\"count\">(%s)</span>"
+msgstr[1] "Update beschikbaar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: includes/inc/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Installeer <span class=\"count\">(%s)</span>"
+msgstr[1] "Installeer <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: includes/inc/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Allemaal <span class=\"count\">(%s)</span>"
+msgstr[1] "Allemaal <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: includes/inc/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: includes/inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Update aanbevolen"
+
+#: includes/inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Update Vereist"
+
+#: includes/inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Verplichte update niet beschikbaar"
+
+#: includes/inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Actief"
+
+#: includes/inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Geïnstalleerd maar niet geactiveerd"
+
+#: includes/inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Niet geïnstalleerd"
+
+#: includes/inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Pre-Packaged"
+
+#: includes/inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Externe Bron"
+
+#: includes/inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: includes/inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Aanbevolen"
+
+#: includes/inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Vereist"
+
+#. translators: %s: version number
+#: includes/inc/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: includes/inc/class-tgm-plugin-activation.php:1121
+#: includes/inc/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "en"
+
+#: includes/inc/class-tgm-plugin-activation.php:1092
+msgid "See more on using the Avant theme"
+msgstr "Zie meer over het gebruik van het avant thema"
+
+#: includes/inc/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Het gekozen pluginpakket bestaat uit meer dan een bestand, maar de bestanden zijn niet samengepakt in een map."
+
+#: includes/inc/class-tgm-plugin-activation.php:934
+#: includes/inc/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Gelieve contact op te nemen met de aanbieder van de plugin en vraag hen de plugin aan te leveren volgens de WordPress richtlijnen."
+
+#: includes/inc/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Het gekozen plugin pakket bevat geen map met de gewenste slag en de naamswijziging heeft niet gewerkt."
+
+#: includes/inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Update Vereist"
+
+#: includes/inc/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Deze plugin moet worden ge-update voor een compatibele versie met dit thema."
+
+#: includes/inc/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Gelieve de administrator van deze website te contacteren voor hulp."
+
+#: includes/inc/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Er zijn één of meerdere vereiste of aanbevolen plugins om te installeren, bij te werken of te activeren."
+
+#: includes/inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Negeer deze melding"
+
+#. translators: 1: dashboard link.
+#: includes/inc/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alle plug-ins zijn succesvol geactiveerd. %1$s"
+
+#. translators: 1: plugin name.
+#: includes/inc/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "De plugin is niet geactiveerd. Een nieuwere versie van %s is noodzakelijk voor dit thema. Werk de plugin bij."
+
+#. translators: 1: plugin name.
+#: includes/inc/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Geen actie uitgevoerd. De plugin %1$s was al geactiveerd."
+
+#: includes/inc/class-tgm-plugin-activation.php:388
+#: includes/inc/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "De volgende plugin is succesvol geactiveerd:"
+msgstr[1] "De volgende plugins zijn met succes geactiveerd: "
+
+#: includes/inc/class-tgm-plugin-activation.php:387
+#: includes/inc/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Plugin succesvol geactiveerd."
+
+#: includes/inc/class-tgm-plugin-activation.php:386
+#: includes/inc/class-tgm-plugin-activation.php:827
+#: includes/inc/class-tgm-plugin-activation.php:2533
+#: includes/inc/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Terug naar Dashboard"
+
+#: includes/inc/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Keer terug naar vereiste plugins Installer"
+
+#: includes/inc/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Start activering plugin"
+msgstr[1] "Start activering plugins"
+
+#: includes/inc/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Begin met updaten van de plugin"
+msgstr[1] "Begin met updaten van de plugins"
+
+#: includes/inc/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Begin met installeren van de plugin"
+msgstr[1] "Begin met installeren van de plugins"
+
+#: includes/inc/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Er ging iets mis met de plugin API."
+
+#. translators: %s: plugin name.
+#: includes/inc/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Updaten Plugin: %s"
+
+#. translators: %s: plugin name.
+#: includes/inc/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Plugin installeren: %s"
+
+#: includes/inc/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Installeer plugins"
+
+#: includes/inc/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Installeer vereiste plugins"
+
+#: includes/avant-pro/class-customize.php:77
+msgid "Upgrade to Premium"
+msgstr "Upgrade naar de premium-versie"
+
+#: functions.php:378
+msgid "Meta Slider"
+msgstr "Meta Slider"
+
+#: functions.php:373
+msgid "Breadcrumb NavXT"
+msgstr "Breadcrumb NavXT"
+
+#: functions.php:362
+msgid "Elementor Page Builder"
+msgstr "Elementor page builder"
+
+#: functions.php:131
+msgid "The footer will divide into however many widgets are placed here."
+msgstr "De voet tekst zal worden samengesteld uit de hier geplaatste widgets."
+
+#: functions.php:129
+msgid "Avant Footer Standard"
+msgstr "Avant standaard voettekst"
+
+#: functions.php:120
+msgid "Sidebar"
+msgstr "Zijbalk"
+
+#: functions.php:76
+msgid "Footer Bar Menu"
+msgstr "Voet tekst bar menu"
+
+#: functions.php:75
+msgid "Primary Menu"
+msgstr "Hoofdmenu"
+
+#: functions.php:74
+msgid "Top Bar Menu"
+msgstr "Top bar menu"
+
+#: customizer/customizer-options.php:1615
+msgid "GitHub"
+msgstr "GitHub"
+
+#: customizer/customizer-options.php:1603
+msgid "Flickr"
+msgstr "Flickr"
+
+#: customizer/customizer-options.php:1597
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: customizer/customizer-options.php:1579
+msgid "Twitter"
+msgstr "Twitter"
+
+#: customizer/customizer-options.php:1573
+msgid "Facebook"
+msgstr "Facebook"
+
+#: customizer/customizer-options.php:1567
+msgid "Skype Name"
+msgstr "Skype naam"
+
+#: customizer/customizer-options.php:1561
+msgid "Email Address"
+msgstr "e-mailadres"
+
+#: customizer/customizer-options.php:1555
+msgid "Avant Social Links"
+msgstr "Avant sociale links"
+
+#: customizer/customizer-options.php:1488
+#: templates/contents/content-none.php:24
+#: templates/contents/content-none.php:28
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, maar we hebben geen resultaten gevonden. Probeer een andere zoekterm."
+
+#: customizer/customizer-options.php:1485
+msgid "No Search Results"
+msgstr "Geen resultaten"
+
+#: customizer/customizer-options.php:1481
+#: templates/contents/content-none.php:14
+msgid "Nothing Found"
+msgstr "Niets gevonden"
+
+#: customizer/customizer-options.php:1478
+msgid "No Search Results Heading"
+msgstr "Titel \"Geen zoekresultaten\""
+
+#: customizer/customizer-options.php:1471
+msgid "Error 404 Message"
+msgstr "Fout 404 bericht"
+
+#: customizer/customizer-options.php:1464
+msgid "404 Error Page Heading"
+msgstr "404 Fout pagina titel"
+
+#: customizer/customizer-options.php:1457
+msgid "404 Error / No Results"
+msgstr "404 fout/geen resultaten"
+
+#: customizer/customizer-options.php:1450
+msgid "<b>Premium Extra Features:</b><br />- Add extra text to Header"
+msgstr "<b> Premium extra features: </b> <br />-Voeg extra tekst toe aan header"
+
+#: customizer/customizer-options.php:1444
+msgid "Cape Town, South Africa"
+msgstr "Cape Town, Zuid-Afrika"
+
+#: customizer/customizer-options.php:1441
+msgid "Address"
+msgstr "Adres"
+
+#: customizer/customizer-options.php:1436
+msgid "Add your custom icon from <a href=\"https://fontawesome.com/cheatsheet\" target=\"_blank\">Font Awesome</a>"
+msgstr "Voeg uw aangepaste pictogram van <a href=\"https://fontawesome.com/cheatsheet\" target=\"_blank\"> Font awesome </a>"
+
+#: customizer/customizer-options.php:1433
+msgid "Address Icon"
+msgstr "Adres icoon"
+
+#: customizer/customizer-options.php:1429
+#: templates/header/header-layout-seven.php:15
+#: templates/header/header-layout-one.php:15
+#: templates/header/header-layout-two.php:15
+#: templates/header/header-layout-six.php:22
+#: templates/header/header-layout-five.php:15
+#: templates/header/header-layout-four.php:15
+#: templates/header/header-layout-three.php:15
+msgid "Call Us: +2782 444 YEAH"
+msgstr "Bel ons: + 2782 444 YEAH"
+
+#: customizer/customizer-options.php:1426
+msgid "Phone Number"
+msgstr "Telefoonnummer"
+
+#: customizer/customizer-options.php:1422
+msgid "fa-phone"
+msgstr "fa-phone"
+
+#: customizer/customizer-options.php:1421
+msgid "Add your own custom icon by pasting the corrent <a href=\"https://fontawesome.com/cheatsheet\" target=\"_blank\">Font Awesome</a> class here<br />Eg: \"fa-phone\"<br />Or enter a space to remove the icon"
+msgstr "Voeg uw eigen icon toe door het plakken van de corrent <a href=\"https://fontawesome.com/cheatsheet\" target=\"_blank\">Font Awesome</a> class hier<br />Eg: \"fa-phone\"<br />Of plaats een spatie om de icon te verwijderen"
+
+#: customizer/customizer-options.php:1418
+msgid "Phone Number Icon"
+msgstr "Icon telefoonnummer"
+
+#: customizer/customizer-options.php:1403
+msgid "Avant Theme Text"
+msgstr "Avant thema tekst"
+
+#: customizer/customizer-options.php:1392
+msgid "Bottom Bar Font Color"
+msgstr "Onderste balk lettertype kleur"
+
+#: customizer/customizer-options.php:1385
+msgid "Bottom Bar Bg Color"
+msgstr "Onderste balk achtergrond kleur"
+
+#: customizer/customizer-options.php:1346
+msgid "Content Background Color"
+msgstr "Achtergrondkleur berichten"
+
+#: customizer/customizer-options.php:1311
+msgid "Drop Down Opacity"
+msgstr "Drop-down dekking"
+
+#: customizer/customizer-options.php:1304
+msgid "Drop Down Font Color"
+msgstr "Drop-down lettertype kleur"
+
+#: customizer/customizer-options.php:1297
+msgid "Drop Down Bg Color"
+msgstr "Drop-down achtergrond kleur"
+
+#: customizer/customizer-options.php:1276
+msgid "Navigation"
+msgstr "Navigatie"
+
+#: customizer/customizer-options.php:1260
+msgid "Header Opacity"
+msgstr "Header ondoorzichtigheid"
+
+#: customizer/customizer-options.php:1253
+#: customizer/customizer-options.php:1290
+#: customizer/customizer-options.php:1377
+msgid "Font Color"
+msgstr "Lettertype kleur"
+
+#: customizer/customizer-options.php:1246
+#: customizer/customizer-options.php:1283
+#: customizer/customizer-options.php:1363
+msgid "Background Color"
+msgstr "Achtergrondkleur"
+
+#: customizer/customizer-options.php:1239
+msgid "Top Bar Font Color"
+msgstr "Letterkleur top balk"
+
+#: customizer/customizer-options.php:1232
+msgid "Top Bar Background Color"
+msgstr "Achtergrondkleur top balk"
+
+#: customizer/customizer-options.php:1209
+msgid "Secondary Color"
+msgstr "Secundaire kleur"
+
+#: customizer/customizer-options.php:1201
+msgid "Primary Color"
+msgstr "Primaire kleur"
+
+#: customizer/customizer-options.php:1193
+msgid "Site Boxed Background Color"
+msgstr "Site boxed achtergrond kleur"
+
+#: customizer/customizer-options.php:1186
+msgid "Default Colors"
+msgstr "Standaardkleuren"
+
+#: customizer/customizer-options.php:1177
+msgid "Avant Layout Colors"
+msgstr "Avant layout kleuren"
+
+#: customizer/customizer-options.php:1165
+msgid "WooCommerce Product Title Color"
+msgstr "WooCommerce product titelkleur"
+
+#: customizer/customizer-options.php:1158
+msgid "WooCommerce Product Title Size"
+msgstr "WooCommerce product titel grootte"
+
+#: customizer/customizer-options.php:1149
+msgid "Sidebar Widget Title Color"
+msgstr "Sidebar widget titel kleur"
+
+#: customizer/customizer-options.php:1142
+msgid "Blog List Title Color"
+msgstr "Bericht lijst titelkleur"
+
+#: customizer/customizer-options.php:1135
+msgid "Page Title Color"
+msgstr "Kleur pagina titel"
+
+#: customizer/customizer-options.php:1128
+#: customizer/customizer-options.php:1370
+msgid "Heading Font Color"
+msgstr "Heading lettertype kleur"
+
+#: customizer/customizer-options.php:1112
+#: customizer/customizer-options.php:1120
+msgid "Heading Font"
+msgstr "Heading lettertype"
+
+#: customizer/customizer-options.php:1104
+msgid "Body Font Color"
+msgstr "Body tekstkleur"
+
+#: customizer/customizer-options.php:1088
+#: customizer/customizer-options.php:1096
+msgid "Body Font"
+msgstr "Body lettertype"
+
+#: customizer/customizer-options.php:1081
+msgid "Site Fonts"
+msgstr "Site fonts"
+
+#: customizer/customizer-options.php:1067
+msgid "This will set the space between the site title and the site tagline"
+msgstr "Dit zal de ruimte tussen de plaats titel en de plaats slogan plaatsen"
+
+#: customizer/customizer-options.php:1064
+msgid "Site Title Bottom Margin"
+msgstr "Site titel bodem marge"
+
+#: customizer/customizer-options.php:1057
+msgid "Site Tagline Size"
+msgstr "Grootte van site-slogan"
+
+#: customizer/customizer-options.php:1041
+#: customizer/customizer-options.php:1049
+msgid "Site Tagline Font"
+msgstr "Lettertype site slogan"
+
+#: customizer/customizer-options.php:1034
+msgid "Site Title Size"
+msgstr "Site titel grootte"
+
+#: customizer/customizer-options.php:1018
+#: customizer/customizer-options.php:1026
+msgid "Site Title Font"
+msgstr "Lettertype sitetitel"
+
+#: customizer/customizer-options.php:1004
+msgid "Title/Tagline Fonts"
+msgstr "Titel/slogan fonts"
+
+#: customizer/customizer-options.php:993
+msgid "Avant Font Settings"
+msgstr "Avant font instellingen"
+
+#: customizer/customizer-options.php:832
+msgid "Remove Shop Page Titles"
+msgstr "Titels van winkelpagina verwijderen"
+
+#: customizer/customizer-options.php:839
+msgid "Remove Product Border"
+msgstr "Product rand verwijderen"
+
+#: customizer/customizer-options.php:825 functions.php:357
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: customizer/customizer-options.php:814
+msgid "<b>Premium Extra Features:</b><br />- Change Site Attribution text<br />- Adjust Social Footer Icon size<br />- Adjust Social Footer Icon spacing<br />- New Custom Footer layout<br />- Edit Custom Columns amount and Custom Widths<br />- Remove Social Icons<br />- Remove Footer bottom bar<br />- Adjust Footer top & bottom padding"
+msgstr "<b> Premium extra functies: </b> <br />-Verander site attributie tekst <br />-aanpassen sociale voet tekst icoon grootte <br />-aanpassen sociale voet tekst pictogram afstand <br />-nieuwe aangepaste voet tekst indeling <br />-aangepaste kolommen bewerken bedrag en aangepaste breedtes <br />-Verwijder sociale pictogrammen <br /> -Verwijder voet tekst onderste balk <br />-aanpassen footer Top & Bottom Padding"
+
+#: customizer/customizer-options.php:805
+msgid "Switch Bottom Bar"
+msgstr "Wissel onderste balk"
+
+#: customizer/customizer-options.php:791
+msgid "Set Footer to Full Width"
+msgstr "Voettekst instellen op volledige breedte"
+
+#: customizer/customizer-options.php:770
+msgid "Footer Layout"
+msgstr "Footer-Layout"
+
+#: customizer/customizer-options.php:765
+msgid "Social Layout"
+msgstr "Sociale lay-out"
+
+#: customizer/customizer-options.php:764
+msgid "Standard Layout"
+msgstr "Standaardlayout"
+
+#: customizer/customizer-options.php:757 customizer/customizer-options.php:1356
+msgid "Footer"
+msgstr "Voettekst"
+
+#: customizer/customizer-options.php:698
+msgid "Widget Title Styling"
+msgstr "Widget titel styling"
+
+#: customizer/customizer-options.php:694
+msgid "Short Underline"
+msgstr "Kort onderstrepen"
+
+#: customizer/customizer-options.php:693
+msgid "Underlined Solid"
+msgstr "Vaste onderlijning"
+
+#: customizer/customizer-options.php:692
+msgid "Underlined Dots"
+msgstr "Gestippelde onderlijning"
+
+#: customizer/customizer-options.php:691
+msgid "Plain"
+msgstr "Zonder opmaak"
+
+#: customizer/customizer-options.php:685
+msgid "Left Align Title"
+msgstr "Titel links uitlijnen"
+
+#: customizer/customizer-options.php:678
+msgid "Sidebar Title Size"
+msgstr "Sidebar titel grootte"
+
+#: customizer/customizer-options.php:659
+msgid "Remove all Page Titles"
+msgstr "Alle pagina titels verwijderen"
+
+#: customizer/customizer-options.php:645 customizer/customizer-options.php:1339
+msgid "Pages"
+msgstr "Pagina's"
+
+#: customizer/customizer-options.php:637 customizer/customizer-options.php:749
+msgid "<b>Premium Extra Features:</b><br />- Set Featured Image banner to Full Width"
+msgstr "<b> Premium extra functies: </b> <br />-set featured beeld banner op volle breedte"
+
+#: customizer/customizer-options.php:605 customizer/customizer-options.php:727
+msgid "Page Banner Size"
+msgstr "Omvang pagina banner"
+
+#: customizer/customizer-options.php:601 customizer/customizer-options.php:723
+msgid "Use Proper Image"
+msgstr "Gebruik de juiste afbeelding"
+
+#: customizer/customizer-options.php:600 customizer/customizer-options.php:722
+msgid "Large Banner"
+msgstr "Grote banner"
+
+#: customizer/customizer-options.php:599 customizer/customizer-options.php:721
+msgid "Medium Banner"
+msgstr "Middelgrote banner"
+
+#: customizer/customizer-options.php:598 customizer/customizer-options.php:720
+msgid "Small Banner"
+msgstr "Kleine banner"
+
+#: customizer/customizer-options.php:597 customizer/customizer-options.php:719
+msgid "Extra Small Banner"
+msgstr "Extra kleine banner"
+
+#: customizer/customizer-options.php:590 customizer/customizer-options.php:712
+msgid "Featured Image Layout"
+msgstr "Aanbevolen afbeelding layout"
+
+#: customizer/customizer-options.php:586 customizer/customizer-options.php:708
+msgid "Page Banner"
+msgstr "Pagina banner"
+
+#: customizer/customizer-options.php:585 customizer/customizer-options.php:707
+msgid "Standard"
+msgstr "Standaard"
+
+#: customizer/customizer-options.php:571
+msgid "Blog Single Posts"
+msgstr "Bericht enkele berichten"
+
+#: customizer/customizer-options.php:564
+msgid "<b>Premium Extra Features:</b><br />- Set Blog, Archives and Single pages to Left Sidebar<br />- Set Blog, Archives and Single pages to Full Width<br />- Set Blog list & archives to use post summary<br />- Extra summary settings<br />- Set custom Blocks layout columns<br />- Set spacing of Blocks layout<br />- Change Blocks styling (Image or Post layouts)"
+msgstr "<b> Premium extra features: </b> <br />-set blog, archieven en enkele pagina's naar links zijbalk <br />-set blog, archieven en enkele pagina's naar volledige breedte <br />-set blog lijst & archieven te gebruiken post samenvatting <br />-extra samenvattings instellingen <br />-set aangepaste blokken lay-out kolommen <br />-instellen afstand van blokken lay-out <br />-Change blocks styling (afbeelding of post lay-outs)"
+
+#: customizer/customizer-options.php:557
+msgid "This will not update in the Customizer. Exit the Customizer to view the change"
+msgstr "Dit wordt niet bijgewerkt in de Customizer. Verlaat de Customizer om de verandering te bekijken"
+
+#: customizer/customizer-options.php:554
+msgid "Remove text before Archive Title"
+msgstr "Tekst verwijderen vóór archief titel"
+
+#: customizer/customizer-options.php:547
+msgid "Remove Blog & Archive Page Titles"
+msgstr "Verwijder bericht & archief pagina titels"
+
+#: customizer/customizer-options.php:542
+msgid "Enter the ID's of the post categories you'd like to EXCLUDE from the Blog, enter only the ID's with a minus sign (-) before them, separated by a comma (,)<br />Eg: \"-13, -17, -19\"<br /><br />If you enter the ID's without the minus then it'll show ONLY posts in those categories.<br /><br />Get the ID at <b>Posts -> Categories</b>."
+msgstr "Voer de ID's in van de berichtcategorieën de je zou willen UITSLUITEN van het blog; voer alleen de ID's met een minteken (-) ervoor, gescheiden door komma's <br />Bijvoorbeeld:\"-13,-17, -19\"<br /><br />Als je de ID's zonder minteken invoert, zullen er ALLEEN berichten in die categorieën getoond worden.<br /><br />Get the ID at <b>Posts -> Categories</b>."
+
+#: customizer/customizer-options.php:539
+msgid "Exclude Blog Categories"
+msgstr "Bericht categorieën uitsluiten"
+
+#: customizer/customizer-options.php:532 customizer/customizer-options.php:628
+msgid "Remove Tags & Categories"
+msgstr "Verwijder tags & categorieën"
+
+#: customizer/customizer-options.php:525
+msgid "Remove Content"
+msgstr "Verwijder Inhoud"
+
+#: customizer/customizer-options.php:518 customizer/customizer-options.php:621
+msgid "Remove Meta Info"
+msgstr "Verwijder meta info"
+
+#: customizer/customizer-options.php:511
+msgid "Remove Blocks Border"
+msgstr "Verwijder blokken rand"
+
+#: customizer/customizer-options.php:468
+msgid "Break into Blocks"
+msgstr "Breken in blokken"
+
+#: customizer/customizer-options.php:482
+msgid "Blog Posts Layout"
+msgstr "Berichten-layout"
+
+#: customizer/customizer-options.php:478
+msgid "Blocks Layout"
+msgstr "Blokken layout"
+
+#: customizer/customizer-options.php:477
+msgid "Top Layout"
+msgstr "Top-indeling"
+
+#: customizer/customizer-options.php:476
+msgid "Alternate Layout"
+msgstr "Alternatieve indeling"
+
+#: customizer/customizer-options.php:475
+msgid "Right Layout"
+msgstr "Rechter lay-out"
+
+#: customizer/customizer-options.php:474
+msgid "Left Layout"
+msgstr "Linker lay-out"
+
+#: customizer/customizer-options.php:461
+msgid "Blog List"
+msgstr "Berichten lijst"
+
+#: customizer/customizer-options.php:450
+msgid "Make Full Width"
+msgstr "Volledige breedte maken"
+
+#: customizer/customizer-options.php:442
+msgid "Image Size"
+msgstr "Afbeeldingsgrootte"
+
+#: customizer/customizer-options.php:438
+msgid "Use Full Image"
+msgstr "Gebruik volledige afbeelding"
+
+#: customizer/customizer-options.php:437
+msgid "Large Image"
+msgstr "Grote afbeelding"
+
+#: customizer/customizer-options.php:436
+msgid "Medium Image"
+msgstr "Medium afbeelding"
+
+#: customizer/customizer-options.php:435
+msgid "Small Image"
+msgstr "Kleine afbeelding"
+
+#: customizer/customizer-options.php:434
+msgid "Extra Small Image"
+msgstr "Extra kleine afbeelding"
+
+#: customizer/customizer-options.php:427
+msgid "Stop Auto Scroll"
+msgstr "Automatisch scrollen stoppen"
+
+#: customizer/customizer-options.php:420
+msgid "Remove Slider Pagination"
+msgstr "Verwijder dia paginering"
+
+#: customizer/customizer-options.php:392
+msgid "Link Slide to post"
+msgstr "Dia koppelen aan bericht"
+
+#: customizer/customizer-options.php:384
+msgid "Slider Scroll Effect"
+msgstr "Schuifregelaar Scroll Effect"
+
+#: customizer/customizer-options.php:380
+msgid "Scroll"
+msgstr "Scroll"
+
+#: customizer/customizer-options.php:379
+msgid "Cover"
+msgstr "Bedekken"
+
+#: customizer/customizer-options.php:378
+msgid "Uncover Fade"
+msgstr "Fade verwijderen"
+
+#: customizer/customizer-options.php:377
+msgid "Cover Fade"
+msgstr "Cover Fade"
+
+#: customizer/customizer-options.php:376
+msgid "Fade"
+msgstr "Vervagen"
+
+#: customizer/customizer-options.php:369
+msgid "Slider Size"
+msgstr "Slider formaat"
+
+#: customizer/customizer-options.php:365
+msgid "Large Slider"
+msgstr "Grote Slider"
+
+#: customizer/customizer-options.php:364
+msgid "Medium Slider"
+msgstr "Medium Slider"
+
+#: customizer/customizer-options.php:363
+msgid "Small Slider"
+msgstr "Kleine Slider"
+
+#: customizer/customizer-options.php:357
+msgid "Set slider to full width"
+msgstr "Zet dia op volledige breedte"
+
+#: customizer/customizer-options.php:353
+msgid "Enter the shortcode give by the slider."
+msgstr "Voer de shortcode in opgegeven door de dia"
+
+#: customizer/customizer-options.php:346
+msgid "Enter the ID's of the post categories you want to display in the slider. Eg: \"13,17,19\" (no spaces and only comma's)<br /><br />Get the ID at <b>Posts -> Categories</b>.<br /><br />Or <a href=\"https://kairaweb.com/documentation/setting-up-the-default-slider/\" target=\"_blank\"><b>See more instructions here</b></a>"
+msgstr "Voer de ID's in van de postcategorieën die u in de slider wilt weergeven. Bijvoorbeeld: \"13,17,19\" (geen spaties en alleen komma's) <br /><br /> Krijg de ID bij <b>Berichten -> Categorieën</b> . <br /><br /> Of <a href=\"https://kairaweb.com/documentation/setting-up-the-default-slider/\" target=\"_blank\"><b>zie hier meer instructies</b></a>"
+
+#: customizer/customizer-options.php:343
+msgid "Slider Categories"
+msgstr "Slider Categorieën"
+
+#: customizer/customizer-options.php:335
+msgid "Choose a Slider"
+msgstr "Kies een Slider"
+
+#: customizer/customizer-options.php:331 customizer/customizer-options.php:584
+#: customizer/customizer-options.php:706 customizer/customizer-options.php:766
+msgid "None"
+msgstr "Geen"
+
+#: customizer/customizer-options.php:330
+msgid "Featured Image"
+msgstr "Uitgelichte afbeelding"
+
+#: customizer/customizer-options.php:329 customizer/customizer-options.php:350
+msgid "Slider Shortcode"
+msgstr "Slider Shortcode"
+
+#: customizer/customizer-options.php:328
+msgid "Default Slider"
+msgstr "Standaard Slider"
+
+#: customizer/customizer-options.php:322 customizer/customizer-options.php:1530
+msgid "Home Page Slider"
+msgstr "Home Pagina Slider"
+
+#: customizer/customizer-options.php:282
+msgid "Remove Social Icons"
+msgstr "Verwijder sociale icons"
+
+#: customizer/customizer-options.php:290
+msgid "Remove WooCommerce Cart"
+msgstr "Verwijder WooCommerce winkelwagen"
+
+#: customizer/customizer-options.php:275
+msgid "Remove Address"
+msgstr "Verwijder adres"
+
+#: customizer/customizer-options.php:268
+msgid "Remove Phone Number"
+msgstr "Verwijder telefoonnummer"
+
+#: customizer/customizer-options.php:261
+msgid "Remove Search"
+msgstr "Verwijder \"zoeken\""
+
+#: customizer/customizer-options.php:1520
+msgid "Menu Button Text"
+msgstr "Tekst menu knop"
+
+#: customizer/customizer-options.php:253
+msgid "Navigation Alignment"
+msgstr "Uitlijning van navigatie"
+
+#: customizer/customizer-options.php:249
+msgid "Align Center"
+msgstr "Centreren"
+
+#: customizer/customizer-options.php:248
+msgid "Align Left"
+msgstr "Links uitlijnen"
+
+#: customizer/customizer-options.php:247
+msgid "Align Right"
+msgstr "Rechts uitlijnen"
+
+#: customizer/customizer-options.php:241
+msgid "Remove Slider Top Space"
+msgstr "Verwijder ruimte boven dia "
+
+#: customizer/customizer-options.php:234
+msgid "Switch Header"
+msgstr "Verwissel header"
+
+#: customizer/customizer-options.php:202
+msgid "Header Layout"
+msgstr "Header Layout"
+
+#: customizer/customizer-options.php:198
+msgid "Transparent Header"
+msgstr "Transparente Header"
+
+#: customizer/customizer-options.php:197
+msgid "Side Layout Header"
+msgstr "Header Layout"
+
+#: customizer/customizer-options.php:196
+msgid "Standard Header Social"
+msgstr "Standaard sociale header"
+
+#: customizer/customizer-options.php:195
+msgid "Standard Header"
+msgstr "Standaard header"
+
+#: customizer/customizer-options.php:194
+msgid "Centered Header Social"
+msgstr "Gecentreerde sociale header"
+
+#: customizer/customizer-options.php:193
+msgid "Centered Header"
+msgstr "Gecentreerde header"
+
+#: customizer/customizer-options.php:192
+msgid "Default Header"
+msgstr "Standaardheader"
+
+#: customizer/customizer-options.php:186
+msgid "Switch Top Bar"
+msgstr "Wissel bovenste balk"
+
+#: customizer/customizer-options.php:179
+msgid "Remove Top Bar"
+msgstr "Bovenste balk verwijderen"
+
+#: customizer/customizer-options.php:171 customizer/customizer-options.php:1225
+#: customizer/customizer-options.php:1411
+#: customizer/customizer-options.php:1506
+msgid "Header"
+msgstr "Header"
+
+#: customizer/customizer-options.php:132
+msgid "Add Sidebar divider line"
+msgstr "Voeg sidebar divider lijn toe"
+
+#: customizer/customizer-options.php:125
+msgid "Remove Content Background & Borders"
+msgstr "Verwijderen achtergrond & randen van de inhoud"
+
+#: customizer/customizer-options.php:113
+msgid "Full Width Layout"
+msgstr "Volledige breedte layout"
+
+#: customizer/customizer-options.php:112
+msgid "Boxed Layout"
+msgstr "Box layout"
+
+#: customizer/customizer-options.php:106
+msgid "Remove Top Border"
+msgstr "Bovenste rand verwijderen"
+
+#: customizer/customizer-options.php:82 customizer/customizer-options.php:117
+msgid "Site Layout"
+msgstr "Site layout"
+
+#: customizer/customizer-options.php:74
+msgid "Avant Theme Settings"
+msgstr "Avant thema-instellingen"
+
+#: customizer/customizer-options.php:61
+msgid "This only applies if a logo image is uploaded"
+msgstr "Dit is alleen van toepassing als er een logo is geüpload"
+
+#: customizer/customizer-options.php:58
+msgid "Set a max-width for the logo"
+msgstr "Stel een max-breedte voor het logo in"
+
+#: customizer/customizer-options.php:51
+msgid "Site Title bottom padding"
+msgstr "Site titel Bodem Padding"
+
+#: customizer/customizer-options.php:44
+msgid "Site Title top padding"
+msgstr "Site titel Top Padding"
+
+#: customizer/customizer-library/extensions/fonts.php:202
+msgctxt "font style"
+msgid "Monospaced"
+msgstr "Monospace-font"
+
+#: customizer/customizer-library/extensions/fonts.php:198
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr "Sans Serif"
+
+#: customizer/customizer-library/extensions/fonts.php:194
+msgctxt "font style"
+msgid "Serif"
+msgstr "Serif"
+
+#: customizer/customizer-library/extensions/fonts.php:134
+msgid "Vietnamese"
+msgstr "Vietnamees"
+
+#: customizer/customizer-library/extensions/fonts.php:133
+msgid "Latin Extended"
+msgstr "Latijn Uitgebreid"
+
+#: customizer/customizer-library/extensions/fonts.php:132
+msgid "Latin"
+msgstr "Latijn"
+
+#: customizer/customizer-library/extensions/fonts.php:131
+msgid "Khmer"
+msgstr "Khmer"
+
+#: customizer/customizer-library/extensions/fonts.php:130
+msgid "Greek Extended"
+msgstr "Grieks Uitgebreid"
+
+#: customizer/customizer-library/extensions/fonts.php:129
+msgid "Greek"
+msgstr "Grieks"
+
+#: customizer/customizer-library/extensions/fonts.php:128
+msgid "Devanagari"
+msgstr "Devanagari"
+
+#: customizer/customizer-library/extensions/fonts.php:127
+msgid "Cyrillic Extended"
+msgstr "Cyrillisch Uitgebreid"
+
+#: customizer/customizer-library/extensions/fonts.php:126
+msgid "Cyrillic"
+msgstr "Cyrillisch"
+
+#: customizer/customizer-library/extensions/fonts.php:125
+msgid "All"
+msgstr "Alle"
+
+#: customizer/customizer-library/extensions/fonts.php:20
+msgid "Google Fonts"
+msgstr "Google Fonts"
+
+#: customizer/customizer-library/extensions/fonts.php:18
+msgid "Standard Fonts"
+msgstr "Standaard lettertypes"
+
+#: comments.php:73
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#: comments.php:40 comments.php:61
+msgid "Newer Comments"
+msgstr "Nieuwere reacties"
+
+#: comments.php:39 comments.php:60
+msgid "Older Comments"
+msgstr "Oudere reacties"
+
+#: comments.php:36 comments.php:57
+msgid "Comment navigation"
+msgstr "Navigeer door reacties"
+
+#: comments.php:27
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "One thought on &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#: 404.php:20 customizer/customizer-options.php:1474
+msgid "It looks like that page does not exist. <br />Return home or try a search"
+msgstr "Het lijkt erop dat die pagina niet bestaat.<br />Terug naar homepagina of probeer een zoekopdracht"
+
+#: 404.php:17 customizer/customizer-options.php:1467
+msgid "Oops! <span>404</span>"
+msgstr "Oeps! <span>404</span>"
+
+#. Theme URI of the theme
+msgid "https://kairaweb.com/wordpress-theme/avant/"
+msgstr "https://kairaweb.com/wordpress-theme/avant/"
+
+#. Author URI of the theme
+msgid "https://kairaweb.com/"
+msgstr "https://kairaweb.com/"
+
+#. Author of the theme
+msgid "Kaira"
+msgstr "Kaira"
