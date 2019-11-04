@@ -761,3 +761,17 @@ function shop_isle_set_woo_image_sizes() {
 	update_option( 'shop_isle_update_woocommerce_customizer_controls', true );
 }
 add_action( 'after_setup_theme', 'shop_isle_set_woo_image_sizes', 10 );
+
+
+// WooCommerce add to cart button
+add_filter('woocommerce_product_single_add_to_cart_text', 'woo_custom_cart_button_text');
+ 
+function woo_custom_cart_button_text() {
+	return __('In winkelwagen', 'woocommerce');
+}
+
+add_filter('woocommerce_product_description_heading', 'woo_custom_product_description_heading_text');
+ 
+function woo_custom_product_description_heading_text() {
+	return __('Beschrijving', 'woocommerce');
+}

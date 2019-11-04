@@ -29,7 +29,7 @@ get_header(); ?>
 				<div class="row">
 
 					<div class="col-sm-10 col-sm-offset-1">
-						<h1 class="module-title font-alt"><?php the_title(); ?></h1>
+						<!--<h1 class="module-title font-alt"><?php the_title(); ?></h1>-->
 						<?php
 						/* Header description */
 
@@ -44,7 +44,9 @@ get_header(); ?>
 							endif;
 
 						endif;
+
 						?>
+
 					</div>
 
 				</div><!-- .row -->
@@ -82,6 +84,13 @@ get_header(); ?>
 						 */
 						do_action( 'shop_isle_page_after' );
 					}
+
+					$banners_section = get_template_directory() . '/inc/sections/shop_isle_banners_section.php';
+					require_once( $banners_section );
+
+					$products_slider = get_template_directory() . '/inc/sections/shop_isle_products_slider_section.php';
+					require_once( $products_slider );
+					
 					?>
 					</div>
 				</div> <!-- .row -->	

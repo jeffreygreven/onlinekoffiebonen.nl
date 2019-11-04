@@ -66,10 +66,12 @@ if ( ! function_exists( 'shop_isle_primary_navigation' ) ) {
 			if ( is_customize_preview() ) {
 				// Front page
 				if ( is_front_page() ) {
-					echo '<h1 class="site-title shop_isle_hidden_if_not_customizer"><a href="' . esc_url( home_url( '/' ) ) . '" title="' . esc_attr( get_bloginfo( 'name', 'display' ) ) . '" rel="home">' . get_bloginfo( 'name' ) . '</a></h1>';
+					/*echo '<h1 class="site-title shop_isle_hidden_if_not_customizer"><a href="' . esc_url( home_url( '/' ) ) . '" title="' . esc_attr( get_bloginfo( 'name', 'display' ) ) . '" rel="home">' . get_bloginfo( 'name' ) . '</a></h1>'; */
+					echo '<h1 class="site-title shop_isle_hidden_if_not_customizer"><a href="' . esc_url( home_url( '/' ) ) . '" title="Online koffiebonen" rel="home">' . get_bloginfo( 'name' ) . '</a></h1>';
 					// Other page
 				} else {
-					echo '<p class="site-title shop_isle_hidden_if_not_customizer"><a href="' . esc_url( home_url( '/' ) ) . '" title="' . esc_attr( get_bloginfo( 'name', 'display' ) ) . '" rel="home">' . get_bloginfo( 'name' ) . '</a></p>';
+					/*echo '<p class="site-title shop_isle_hidden_if_not_customizer"><a href="' . esc_url( home_url( '/' ) ) . '" title="' . esc_attr( get_bloginfo( 'name', 'display' ) ) . '" rel="home">' . get_bloginfo( 'name' ) . '</a></p>'; */
+					echo '<p class="site-title shop_isle_hidden_if_not_customizer"><a href="' . esc_url( home_url( '/' ) ) . '" title="Online koffiebonen" rel="home">' . get_bloginfo( 'name' ) . '</a></p>';
 				}
 			}
 
@@ -81,13 +83,16 @@ if ( ! function_exists( 'shop_isle_primary_navigation' ) ) {
 
 			// Front page
 			if ( is_front_page() ) {
-				echo '<h1 class="site-title"><a href="' . esc_url( home_url( '/' ) ) . '" title="' . esc_attr( get_bloginfo( 'name', 'display' ) ) . '" rel="home">' . get_bloginfo( 'name' ) . '</a></h1>';
+				/*echo '<h1 class="site-title"><a href="' . esc_url( home_url( '/' ) ) . '" title="' . esc_attr( get_bloginfo( 'name', 'display' ) ) . '" rel="home">' . get_bloginfo( 'name' ) . '</a></h1>';*/
+				echo '<h1 class="site-title"><a href="' . esc_url( home_url( '/' ) ) . '" title="Online koffiebonen" rel="home">' . get_bloginfo( 'name' ) . '</a></h1>';
 				// Other page
 			} else {
-				echo '<p class="site-title"><a href="' . esc_url( home_url( '/' ) ) . '" title="' . esc_attr( get_bloginfo( 'name', 'display' ) ) . '" rel="home">' . get_bloginfo( 'name' ) . '</a></p>';
+				/*echo '<p class="site-title"><a href="' . esc_url( home_url( '/' ) ) . '" title="' . esc_attr( get_bloginfo( 'name', 'display' ) ) . '" rel="home">' . get_bloginfo( 'name' ) . '</a></p>'; */
+				echo '<p class="site-title"><a href="' . esc_url( home_url( '/' ) ) . '" title="Online koffiebonen" rel="home">' . get_bloginfo( 'name' ) . '</a></p>';
 			}
 
-			echo '<p class="site-description"><a href="' . esc_url( home_url( '/' ) ) . '" title="' . esc_attr( get_bloginfo( 'description', 'display' ) ) . '" rel="home">' . get_bloginfo( 'description' ) . '</a></p>';
+			/*echo '<p class="site-description"><a href="' . esc_url( home_url( '/' ) ) . '" title="' . esc_attr( get_bloginfo( 'description', 'display' ) ) . '" rel="home">' . get_bloginfo( 'description' ) . '</a></p>'; */
+			echo '<p class="site-description"><a href="' . esc_url( home_url( '/' ) ) . '" title="Online koffiebonen" rel="home">' . get_bloginfo( 'description' ) . '</a></p>';
 		}
 		echo '</div></div>';
 		?>

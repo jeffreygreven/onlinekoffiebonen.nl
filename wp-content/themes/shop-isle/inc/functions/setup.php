@@ -182,8 +182,8 @@ if ( ! function_exists( 'shop_isle_setup' ) ) :
 		$woocommerce_settings = apply_filters(
 			'shop_isle_woocommerce_args',
 			array(
-				'single_image_width'            => 555,
-				'thumbnail_image_width'         => 262,
+				'single_image_width'            => 450,
+				'thumbnail_image_width'         => 450,
 				'gallery_thumbnail_image_width' => 160,
 				'product_grid'                  => array(
 					'default_columns' => 3,

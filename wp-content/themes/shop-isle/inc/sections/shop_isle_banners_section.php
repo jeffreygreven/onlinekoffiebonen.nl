@@ -10,7 +10,7 @@ $shop_isle_banners_hide = get_theme_mod( 'shop_isle_banners_hide' );
 $section_style          = '';
 if ( ! empty( $shop_isle_banners_hide ) && (bool) $shop_isle_banners_hide === true ) {
 	if ( is_customize_preview() ) {
-		#$section_style = 'style="display: none"';
+		$section_style = 'style="display: none"';
 	} else {
 		return;
 	}

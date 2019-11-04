@@ -130,7 +130,7 @@ function shop_isle_woocommerce_image_dimensions() {
 			'crop'   => 1,
 		);
 	$single      = array(
-		'width'  => '555',   // px
+		'width'  => '450',   // px
 		'height' => '688',   // px
 		'crop'   => 1,
 	);

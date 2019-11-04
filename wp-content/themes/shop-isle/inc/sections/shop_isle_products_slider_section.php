@@ -121,9 +121,9 @@ if ( ! empty( $shop_isle_products_slider_category ) && ( $shop_isle_products_sli
 			echo '<div class="col-sm-12">';
 			echo '<div class="ex-product">';
 			if ( function_exists( 'woocommerce_get_product_thumbnail' ) ) :
-				echo '<a href="' . esc_url( get_permalink() ) . '">' . woocommerce_get_product_thumbnail() . '</a>';
+				echo '<a href="' . esc_url( get_permalink() ) . '" title="' . get_the_title() . '">' . woocommerce_get_product_thumbnail() . '</a>';
 			endif;
-			echo '<h4 class="shop-item-title font-alt"><a href="' . esc_url( get_permalink() ) . '">' . get_the_title() . '</a></h4>';
+			echo '<h4 class="shop-item-title font-alt"><a href="' . esc_url( get_permalink() ) . '" title="' . get_the_title() . '">' . get_the_title() . '</a></h4>';
 			$rating_html = '';
 			if ( function_exists( 'method_exists' ) && ( function_exists( 'wc_get_rating_html' ) ) && method_exists( $product, 'get_average_rating' ) ) {
 				$shop_isle_avg = $product->get_average_rating();
@@ -193,9 +193,9 @@ else :
 			echo '<div class="col-sm-12">';
 			echo '<div class="ex-product">';
 			if ( function_exists( 'woocommerce_get_product_thumbnail' ) ) :
-				echo '<a href="' . esc_url( get_permalink() ) . '">' . woocommerce_get_product_thumbnail() . '</a>';
+				echo '<a href="' . esc_url( get_permalink() ) . '" title="' . get_the_title() . '">' . woocommerce_get_product_thumbnail() . '</a>';
 			endif;
-			echo '<h4 class="shop-item-title font-alt"><a href="' . esc_url( get_permalink() ) . '">' . get_the_title() . '</a></h4>';
+			echo '<h4 class="shop-item-title font-alt"><a href="' . esc_url( get_permalink() ) .  '" title="' . get_the_title() . '">' . get_the_title() . '</a></h4>';
 
 			$rating_html = '';
 			if ( function_exists( 'method_exists' ) && ( function_exists( 'wc_get_rating_html' ) ) && method_exists( $product, 'get_average_rating' ) ) {
@@ -226,7 +226,7 @@ else :
 			}
 			$shop_isle_price = '';
 			if ( function_exists( 'method_exists' ) && method_exists( $product, 'get_price_html' ) ) {
-				$shop_isle_price = $product->get_price_html();
+				echo '<span class="from-price">Vanaf '; $shop_isle_price = $product->get_price_html();
 			}
 			if ( ! empty( $shop_isle_price ) ) {
 				echo wp_kses_post( $shop_isle_price );
